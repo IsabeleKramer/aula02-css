@@ -1,0 +1,19 @@
+body{
+    background-color: #c1abe9;
+}
+p.text1{
+    color: #00ffbf;
+    font-family: 'Franklin Gothic Medium';
+    font-size: xx-large;
+}
+p.text2{
+    color: #ff00b3;
+    font-family:  Georgia;
+    border-style: dashed;
+    border-color: rgb(236, 117, 143);
+}
+p.text3{
+    color: #8400ff;
+    border-style: double dashed solid double;
+    border-color: rgb(42, 165, 159);
+}
